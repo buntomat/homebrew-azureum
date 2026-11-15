@@ -2,7 +2,7 @@ cask "azureum" do
   version "1.5"
   sha256 "4395a9b2acc7934f288782b5476b747709231a915b9777661bc8ead4074b81d9"
 
-  url "https://azureum.de/download/Azureum-#{version}.dmg"
+  url "https://azureum.de/files/Azureum-#{version}.dmg"
   name "Azureum"
   desc "Globus und Karte für macOS mit freien Geodaten"
   homepage "https://azureum.de"
